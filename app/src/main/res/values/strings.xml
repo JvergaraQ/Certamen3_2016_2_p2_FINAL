@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Certamen3_p2</string>
+
+    <string name="title">Ingresa tu programa favorito!</string>
+    <string name="hint">Breaking Bad</string>
+    <string name="button">Enviar</string>
+</resources>
